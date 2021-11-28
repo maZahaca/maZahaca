@@ -11,7 +11,7 @@ now Senior Software Engineer @ [Emma](https://emma-app.com).
 - 🔭 I'm currently working on [InfraWay DevOps tools](https://github.com/infraway).
 - 📓 I'm (randomly) blogging on [andrew.red](https://andrew.red).
 - 📫 Sign up to the [Weekly Newsletter](https://www.getrevue.co/profile/mazahaco?via=twitter-profile-webview).
-- ✍️ How to reach me: [Twitter](https://twitter.com/maZahaco) and [LinkedIn](https://www.linkedin.com/in/andrewred/).
+- ✍️ How to reach me: [Twitter](https://twitter.com/AndrewRedUK) and [LinkedIn](https://www.linkedin.com/in/andrewred/).
 - 💗 You can [sponsor my work](https://www.patreon.com/andrewred).
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=mazahaca)
