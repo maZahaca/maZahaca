@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 I'm Andrew, a **Passionate software engineer with expertise in software development, microservice architecture, and cloud infrastructure** with **over 15 years** of experience.
 Always enjoying creating *quality web applications, services and terminal tools* using **cutting-edge technologies**.
