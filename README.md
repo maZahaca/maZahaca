@@ -13,7 +13,7 @@ now Senior Software Engineer @ [Emma](https://emma-app.com).
 - 🎙 I'm giving [tech talks](https://andrew.red/pages/talks).
 - 📫 Sign up to the [Weekly Newsletter](https://www.getrevue.co/profile/mazahaco?via=twitter-profile-webview).
 - ✍️ How to reach me: [Twitter](https://twitter.com/AndrewRedUK) and [LinkedIn](https://www.linkedin.com/in/andrewred/).
-- 💗 You can [sponsor my work](https://www.patreon.com/andrewred).
+- 💗 You can [sponsor my work](https://github.com/sponsors/maZahaca).
 
 ![readme-stats](https://github-readme-stats.vercel.app/api?username=mazahaca&include_all_commits=true&show_icons=true)
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazahaca&layout=compact&langs_count=6&hide=css,html,ruby)
