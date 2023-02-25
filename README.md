@@ -3,12 +3,12 @@
 I'm Andrew, a **Passionate software engineer with expertise in software development, microservice architecture, and cloud infrastructure** with **over 15 years** of experience.
 Always enjoying creating *quality web applications, services and terminal tools* using **cutting-edge technologies**.
 
-Always focused on software *maintainability*, *scalability*, *reliability*, and *performances*. [Former CTO](https://juicyscore.com/en/),
+Always focused on software *maintainability*, *scalability*, *reliability*, and *performances*. [Former CTO & Co-Founder](https://juicyscore.com/en/),
 now Tech Mentor and Entrepreneur.
 
 *Constantly looking for opportunities and challenges to improve my skills while providing creative and high-quality solutions.*
 
-- 🔭 I'm currently working on [InfraWay DevOps tools](https://github.com/infraway).
+- 🔭 I'm currently working on [InfraWay DevOps tools](https://github.com/infraway), [Toggl Sync](https://github.com/timemate/toggl-sync).
 - 📓 I'm (randomly) blogging on [andrew.red](https://andrew.red).
 - 🎙 I'm giving [tech talks](https://andrew.red/pages/talks). <!-- - 📫 Sign up to the [Weekly Newsletter](https://www.getrevue.co/profile/mazahaco?via=twitter-profile-webview). -->
 - ✍️ How to reach me: [Twitter](https://twitter.com/AndrewRedUK) and [LinkedIn](https://www.linkedin.com/in/andrewred/).
