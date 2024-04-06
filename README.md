@@ -3,7 +3,7 @@
 I'm Andrew, a **Passionate software engineer with expertise in software development, microservice architecture, and cloud infrastructure** with **over 15 years** of experience.
 Always enjoying creating *quality web applications, services and terminal tools* using **cutting-edge technologies**.
 
-Always focused on software *maintainability*, *scalability*, *reliability*, and *performances*. [Former CTO & Co-Founder](https://juicyscore.com/en/),
+Always focused on software *maintainability*, *scalability*, *reliability*, and *performances*. [Former CTO & Co-Founder](https://juicyscore.ai/en/),
 now Tech Mentor and Entrepreneur.
 
 *Constantly looking for opportunities and challenges to improve my skills while providing creative and high-quality solutions.*
